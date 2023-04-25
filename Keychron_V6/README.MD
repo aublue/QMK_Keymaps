@@ -13,10 +13,10 @@
 - Upload your modified configuration
 
 ## Mapping: 
-![Layer 1](img/layer1.jpg)
-![Layer 2](img/layer2.jpg)
-![Layer 3](img/layer3.jpg)
-![Layer 4](img/layer4.jpg)
+![Layer 1](img/Layer1.jpg)
+![Layer 2](img/Layer2.jpg)
+![Layer 3](img/Layer3.jpg)
+![Layer 4](img/Layer4.jpg)
 
 ## Issues: 
 
